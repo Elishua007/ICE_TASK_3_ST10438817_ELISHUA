@@ -3,7 +3,7 @@ on:
  push:
   branches: ["master"]
  pull request:
-  branches: ["main"]
+  branches: ["master"]
 
 jobs:
  build:
